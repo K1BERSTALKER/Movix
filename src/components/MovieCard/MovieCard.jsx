@@ -6,7 +6,7 @@ import { useSelector } from "react-redux";
 import './styles.scss'
 import Img from '../../components/Loader/Img'
 import CircleRating from '../../components/Rating/Rating'
-import Genres from "../genres/Genres";
+import Genres from "../Genres/Genres";
 import PosterFallback from "../../assets/no-poster.png";
 
 const MovieCard = ({ data, fromSearch, mediaType }) => {
