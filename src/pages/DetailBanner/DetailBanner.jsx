@@ -5,7 +5,7 @@ import dayjs from "dayjs";
 
 import "./styles.scss";
 
-import ContentWrapper from "../../components/contentWrapper/ContentWrapper";
+import ContentWrapper from "../../components/ContentWrapper/ContentWrapper";
 import useFetch from "../../hooks/useFetch";
 import Img from '../../components/Loader/Img';
 import PosterFallBack from '../../assets/no-poster.png'
