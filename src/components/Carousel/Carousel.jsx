@@ -1,7 +1,7 @@
 import React, { useRef } from 'react'
 import { useSelector } from 'react-redux'
 import { useNavigate } from 'react-router-dom';
-import ContentWrapper from '../contentWrapper/ContentWrapper';
+import ContentWrapper from '../ContentWrapper/ContentWrapper';
 import Img from '../Loader/Img';
 import PosterFallback from '../../assets/no-poster.png'
 import CircleRating from '../Rating/Rating';
